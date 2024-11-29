@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.montserrat {
+    font-family: "Montserrat", serif;
+  }
+
+::-webkit-scrollbar{
+  display: none;
+}
