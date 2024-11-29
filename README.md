@@ -3,35 +3,35 @@ This project is a Role-Based Access Control (RBAC) System, which demonstrates th
 
 ## Features
 ### 1. User Authentication:
-     Secure login and registration using JWT.
-     Cookies are used to manage user sessions efficiently.
+Secure login and registration using JWT.
+Cookies are used to manage user sessions efficiently.
 ### 2. Role-Based Access Management:
-     Placeholder dashboard with future plans to manage roles, permissions, and activities.
+Placeholder dashboard with future plans to manage roles, permissions, and activities.
 ### 3. Middleware:
-     Middleware for authenticating and authorizing user actions.
+Middleware for authenticating and authorizing user actions.
 ### 4. Frontend: 
-     Clean UI for login and registration forms, created with React and Tailwind CSS.
+Clean UI for login and registration forms, created with React and Tailwind CSS.
 ### 5. Scalable Backend:
-     Modular and easy-to-extend structure.
+Modular and easy-to-extend structure.
 
 ## Technologies Used
 ### Backend:
-     Node.js and Express.js: For building a robust and scalable server.
-     JWT (JSON Web Tokens): For secure user authentication and token-based session management.
-     Cookie-Parser: For handling cookies on the client-server interaction.
-     Middlewares: Custom middlewares to manage user authentication and role-based access.
+Node.js and Express.js: For building a robust and scalable server.
+JWT (JSON Web Tokens): For secure user authentication and token-based session management.
+Cookie-Parser: For handling cookies on the client-server interaction.
+Middlewares: Custom middlewares to manage user authentication and role-based access.
 ### Frontend:
-     React.js: For building the login and registration forms.
-     Tailwind CSS: For styling and responsive UI components.
+React.js: For building the login and registration forms.
+Tailwind CSS: For styling and responsive UI components.
 ### Development Tools:
-     Postman: For API testing.
-     Git and GitHub: For version control and project hosting.
+Postman: For API testing.
+Git and GitHub: For version control and project hosting.
 
 ## Installation and Setup
 ### Prerequisites
-     Node.js installed on your system.
-     npm or yarn package manager.
-     A code editor like VS Code.
+Node.js installed on your system.
+npm or yarn package manager.
+A code editor like VS Code.
 
 ## Steps to Run the Project Locally:
 ### 1. Clone the Repository:
